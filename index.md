@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Arctic Fox
-# Index page
+date: 22021-02-25 12:12:00
 ---
 
 

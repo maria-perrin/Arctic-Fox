@@ -2,6 +2,7 @@
 layout: post
 title: Digestive Anatomy and Physiology
 icon: fas fa-info
+date: 2021-02-25 12:12:00
 order: 3
 toc: true
 ---

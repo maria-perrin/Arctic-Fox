@@ -2,6 +2,7 @@
 layout: post
 title: Quantitative Energy Requirements
 icon: fas fa-bolt
+date: 2021-02-25 12:12:00
 order: 4
 toc: true
 math: true
