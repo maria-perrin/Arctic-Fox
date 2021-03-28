@@ -27,7 +27,7 @@ Above is the taxonomic classification for the Arctic fox<sup>1</sup>.
 Until recently, the Arctic fox was classified as _Alopex lagopus_ and many older papers will refer to it by that name.
 
 ## Geographical Range
-The fox is found in the circumpolar north. The specific range is indicated in blue on the image below. They are considered a nomadic species, and will migrate more than 1000km in a season, however they will also establish territories and stay within that area<sup>2</sup>. However, during the winter they are more likely to leave their territory and become nomadic as they search for food, returning to their territory in the spring<sup>3</sup>.
+The fox is found in the circumpolar north. The specific range is indicated in blue on the image below. They are considered a nomadic species, and will migrate more than 1000km in a season, however they will also establish territories and stay within that area<sup>2</sup>. During the winter they are more likely to leave their territory and become nomadic as they search for food, returning to their territory in the spring<sup>3</sup>.
 
 ![map](/assets/img/Fox Range.png)
 _Arctic fox range (I3)._

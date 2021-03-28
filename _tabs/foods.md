@@ -36,12 +36,12 @@ _A seal, one potential food item for the Arctic fox (I11)_
 In the winter, sea ice allows the coastal foxes to access marine foods that are not available to them in the summer unless they wash to shore as carrion<sup>3</sup>. Ringed seal pups can be killed by the foxes during the spring, but adult seals are eaten as carcasses left behind by larger predators<sup>3</sup>, meaning that the only time the pups are available as a food source is during the spring while they are still small. The availability of seal carcasses is directly related to sea ice, as this is what polar bears (the main source of seal carcasses to be scavenged) require to hunt, and therefore the current trend of global warming is making the season seal meat is available shorter<sup>3</sup>.
 
 ## Caching
-To counteract the seasonal availability of some of their food sources, Arctic foxes will cache some of their prey. One of the foods cached are the eggs of the greater snow goose<sup>15</sup>. Of the acquired eggs, up to 97% are cached for use up to a year later, and an average of 2.7-7.3 eggs may be taken per hour<sup>10</sup>. Lemmings and goslings are also be cached<sup>15</sup>. The low temperatures and permafrost found in the regions Arctic foxes live in make caching a viable option, as even perishable foods stay energy-rich for longer periods of time<sup>15</sup>. Eggs are cached more than other prey items, which may have to do with the fact that they are not very perishable-they will lose only a small percentage of their dry mass (<10%) during the summer months; another possibility is that the shell may make it harder for other animals to smell the eggs and therefore decrease the risk of the cache being pilfered<sup>15</sup>.
+To counteract the seasonal availability of some of their food sources, Arctic foxes will cache some of their prey. One of the foods cached are the eggs of the Greater Snow Goose<sup>15</sup>. Of the acquired eggs, up to 97% are cached for use up to a year later, and an average of 2.7-7.3 eggs may be taken per hour<sup>10</sup>. Lemmings and goslings are also be cached<sup>15</sup>. The low temperatures and permafrost found in the regions Arctic foxes live in make caching a viable option, as even perishable foods stay energy-rich for longer periods of time<sup>15</sup>. Eggs are cached more than other prey items, which may have to do with the fact that they are not very perishable-they will lose only a small percentage of their dry mass (<10%) during the summer months; another possibility is that the shell may make it harder for other animals to smell the eggs and therefore decrease the risk of the cache being pilfered<sup>15</sup>.
 
 Arctic foxes perform both short term and long term caching<sup>15</sup>. Short term caching is performed more often by foxes that had pups to feed nearby, likely because it increases the amount of prey they can capture and bring back to the den; this is not performed with eggs, likely due to the fact that only one egg can be carried at a time<sup>15</sup>.
 
 ## Toxins, Anti-Nutrients, and Limiting Nutrients
-As long as the arctic fox consumes its natural diet, there should not be any toxins, anti-nutrients, or limiting nutrients.
+As long as the Arctic fox consumes its natural diet, there should not be any toxins, anti-nutrients, or limiting nutrients.
 ## Nutritional Value and Energy Content of Lemmings
 I was unable to find proximate analysis data for lemmings, so I chose to use the data for voles instead, as they are a similar species of comparable size and are from the same family as lemmings, and are also a food source for Arctic foxes. I have chosen data from the meadow and red-backed vole (_Microtus pennsylvanicus_ and _Clethrionomys gapperi_)<sup>20</sup>.
 
@@ -76,7 +76,7 @@ $$ ME\ (kcal/g)\ =\ ×\ (4\ ×\ Crude\ Protein\ %\ +\ 9\ ×\ Crude\ Fat\ %\ +\ 4
 
 $$ ME\ (kcal/k)\ =\ (9\ x\ 42.5g)\ +\ (4\ x\ 10.5g)\ +\ (4\ x\ 0g) $$
 
-$$ ME=424.5 kcal/100 g, or 4.2 kcal/g $$
+$$ ME\ =\ 424.5\ kcal/100 g,\ or\ 4.2\ kcal/g $$
 
 ![Lemming2](/assets/img/Lemming.jpg)
 _(I12)_
@@ -103,7 +103,7 @@ Fresh Eggs:
 ![eggs](/assets/img/GooseEggs.jpg)
 _Goose eggs (I14)._
 
-Fats are 96% digestible and proteins are 8% digestible in food sources such as eggs<sup>10</sup>. This information was taken from blue foxes, but was assumed to also apply to the arctic fox<sup>10</sup>.
+Fats are 96% digestible and proteins are 8% digestible in food sources such as eggs<sup>10</sup>. This information was taken from blue foxes, but was assumed to also apply to the Arctic fox<sup>10</sup>.
 
 However, as mentioned above the foxes also cache these eggs, so fat, protein, and energy contents were also calculated for stored eggs. When the eggs have been stored, the fat content is about 12.7g (43.8%) and the protein content was about 14.8g (51.3%)<sup>10</sup>. Ash content of stored eggs was 4.8%, and the energy content has an average of 783 kJ<sup>10</sup>. The metabolizable energy of stored eggs was calculated to be 730 kJ<sup>10</sup>.
 
