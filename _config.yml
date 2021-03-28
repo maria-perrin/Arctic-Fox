@@ -28,8 +28,8 @@ url: ''
 
 author: Maria Perrin                  # change to your full name
 
-#github:
-  #username: github_username             # change to your github username
+github:
+  username: maria-perrin            # change to your github username
 
 #twitter:
   #username: twitter_username            # change to your twitter username
@@ -37,10 +37,10 @@ author: Maria Perrin                  # change to your full name
 social:
   name: Maria Perrin                  # it will shows as the copyright owner in Footer
   email: mperri01@uoguelph.ca             # change to your email address
-  #links:
+  links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username      # change to your twitter homepage
-  #  - https://github.com/username       # change to your github homepage
+    - https://github.com/maria-perrin/maria-perrin.github.io      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

@@ -14,6 +14,6 @@ This project will describe the physical description, habitat, range, and biology
 _(I2)_
 
 
-All information sources are included as superscripts in the sentence with associated information, and all images have an associated image reference number (I-) either in the image description.
+All information sources are included as superscripts in the sentence with associated information, and all images have an associated image reference number (I-) in the image description.
 
 Sidebar image: I1.
